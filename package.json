@@ -1,0 +1,15 @@
+{
+  "name": "discord-bot-template",
+  "version": "0.0.0",
+  "description": "A Discord bot template which works with slash commands.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "PannH",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^13.8.1",
+    "dotenv": "^16.0.1"
+  }
+}
